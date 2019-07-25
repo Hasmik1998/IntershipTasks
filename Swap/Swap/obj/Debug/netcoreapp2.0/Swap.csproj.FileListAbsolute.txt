@@ -1,0 +1,10 @@
+/Users/ashotpetrosyan/Desktop/Swap/Swap/bin/Debug/netcoreapp2.0/Swap.deps.json
+/Users/ashotpetrosyan/Desktop/Swap/Swap/bin/Debug/netcoreapp2.0/Swap.runtimeconfig.json
+/Users/ashotpetrosyan/Desktop/Swap/Swap/bin/Debug/netcoreapp2.0/Swap.runtimeconfig.dev.json
+/Users/ashotpetrosyan/Desktop/Swap/Swap/bin/Debug/netcoreapp2.0/Swap.dll
+/Users/ashotpetrosyan/Desktop/Swap/Swap/bin/Debug/netcoreapp2.0/Swap.pdb
+/Users/ashotpetrosyan/Desktop/Swap/Swap/obj/Debug/netcoreapp2.0/Swap.csproj.CoreCompileInputs.cache
+/Users/ashotpetrosyan/Desktop/Swap/Swap/obj/Debug/netcoreapp2.0/Swap.AssemblyInfoInputs.cache
+/Users/ashotpetrosyan/Desktop/Swap/Swap/obj/Debug/netcoreapp2.0/Swap.AssemblyInfo.cs
+/Users/ashotpetrosyan/Desktop/Swap/Swap/obj/Debug/netcoreapp2.0/Swap.dll
+/Users/ashotpetrosyan/Desktop/Swap/Swap/obj/Debug/netcoreapp2.0/Swap.pdb

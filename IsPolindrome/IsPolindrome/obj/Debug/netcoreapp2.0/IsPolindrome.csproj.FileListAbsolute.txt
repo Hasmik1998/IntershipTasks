@@ -1,0 +1,10 @@
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/bin/Debug/netcoreapp2.0/IsPolindrome.deps.json
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/bin/Debug/netcoreapp2.0/IsPolindrome.runtimeconfig.json
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/bin/Debug/netcoreapp2.0/IsPolindrome.runtimeconfig.dev.json
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/bin/Debug/netcoreapp2.0/IsPolindrome.dll
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/bin/Debug/netcoreapp2.0/IsPolindrome.pdb
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/obj/Debug/netcoreapp2.0/IsPolindrome.csproj.CoreCompileInputs.cache
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/obj/Debug/netcoreapp2.0/IsPolindrome.AssemblyInfoInputs.cache
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/obj/Debug/netcoreapp2.0/IsPolindrome.AssemblyInfo.cs
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/obj/Debug/netcoreapp2.0/IsPolindrome.dll
+/Users/ashotpetrosyan/Desktop/IsPolindrome/IsPolindrome/obj/Debug/netcoreapp2.0/IsPolindrome.pdb

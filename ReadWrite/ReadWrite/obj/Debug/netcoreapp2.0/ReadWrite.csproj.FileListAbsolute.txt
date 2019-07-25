@@ -1,0 +1,10 @@
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/bin/Debug/netcoreapp2.0/ReadWrite.deps.json
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/bin/Debug/netcoreapp2.0/ReadWrite.runtimeconfig.json
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/bin/Debug/netcoreapp2.0/ReadWrite.runtimeconfig.dev.json
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/bin/Debug/netcoreapp2.0/ReadWrite.dll
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/bin/Debug/netcoreapp2.0/ReadWrite.pdb
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/obj/Debug/netcoreapp2.0/ReadWrite.csproj.CoreCompileInputs.cache
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/obj/Debug/netcoreapp2.0/ReadWrite.AssemblyInfoInputs.cache
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/obj/Debug/netcoreapp2.0/ReadWrite.AssemblyInfo.cs
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/obj/Debug/netcoreapp2.0/ReadWrite.dll
+/Users/ashotpetrosyan/Desktop/ReadWrite/ReadWrite/obj/Debug/netcoreapp2.0/ReadWrite.pdb
